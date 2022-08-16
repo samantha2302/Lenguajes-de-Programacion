@@ -1,7 +1,7 @@
 # Lenguajes de Programación
 Instituto Tecnológico de Costa Rica.<br/>
 Repositorio para ejercicios de Lenguajes de Programación. <br/>
-- Samantha Acuña Montero.
+- Ashley Samantha Acuña Montero ' 2021055077
 
 ## Explicacion
 
