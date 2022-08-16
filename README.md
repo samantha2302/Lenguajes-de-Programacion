@@ -9,5 +9,5 @@ Los ejercicios van a estar organizados por carpetas dependiendo del paradigma y 
 
 
 <p align='center'>
-<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1660613992/Lenguajes%20de%20Programacion/57bb2a1f-golang_lrj8hu.png" width="600"
+<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1660613992/Lenguajes%20de%20Programacion/57bb2a1f-golang_lrj8hu.png" width="400"
 </p>
