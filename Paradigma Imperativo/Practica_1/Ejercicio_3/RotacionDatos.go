@@ -36,19 +36,7 @@ func rotarIzquierda(slice *[10]string, cantidadRotaciones int) {
 	}
 	fmt.Println(*slice)
 }
-func rotarDerecha1(slice *[10]string, cantidadRotaciones int) {
-	for rotaciones := 0; rotaciones < cantidadRotaciones; rotaciones++ {
-		sliceDato := slice[9]
-		for i := 0; i > len(slice); i-- {
-			if i != 0 {
-				slice[i] = slice[i-1]
-			} else {
-				slice[0] = sliceDato
-			}
-		}
-	}
-	fmt.Println(*slice)
-}
+
 func rotarDerecha(slice *[10]string, cantidadRotaciones int) {
 	for rotaciones := 9; rotaciones > cantidadRotaciones; rotaciones-- {
 		sliceDato := slice[9]
