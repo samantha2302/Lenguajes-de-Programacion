@@ -1,0 +1,10 @@
+eliminar(N,[N|NS],NS).
+eliminar(N,[H|T],[H|R]):- eliminar(N,T,R).
+
+my_remove_element(_, [], []).
+
+my_remove_element(Y, [Y|Xs], Zs):-
+          my_remove_element(Y, Xs, Zs), !.
+
+my_remove_element(X, [Y|Xs], [Y|Zs]):-
+          my_remove_element(X, Xs, Zs).
