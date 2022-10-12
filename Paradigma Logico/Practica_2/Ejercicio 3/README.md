@@ -1,13 +1,17 @@
 # Lenguajes de Programación
-Instituto Tecnológico de Costa Rica.<br/>
-Repositorio para ejercicios de Lenguajes de Programación. <br/>
 - Ashley Samantha Acuña Montero - 2021055077
 
-## Explicacion
+## Aplanar
 
-Los ejercicios van a estar organizados por carpetas dependiendo del paradigma y por semanas de practica. Además, cuenta con un readme donde se pondra el enunciado del ejercicio y fotos de los resultados del mismo, de la misma forma, los resultados de los ejercicios estarán en comentarios en los archivos correspondientes del ejercicio. 
+Implemente la función aplanar. Esta función recibe una lista con múltiples listas anidadas como elementos y devuelve una lista con los mismos elementos de manera lineal (sin listas). Ej: 
+
+aplanar([1,2,[3,[4,5],[6,7]]],X).
+
+True
+
+X=[1,2,3,4,5,6,7].
 
 
 <p align='center'>
-<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1660613992/Lenguajes%20de%20Programacion/57bb2a1f-golang_lrj8hu.png" width="400"
+<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1665614904/Lenguajes%20de%20Programacion/Semana%2010/aplanar_i9hrkm.png" width="1200"
 </p>
