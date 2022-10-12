@@ -1,13 +1,18 @@
 # Lenguajes de Programación
-Instituto Tecnológico de Costa Rica.<br/>
-Repositorio para ejercicios de Lenguajes de Programación. <br/>
 - Ashley Samantha Acuña Montero - 2021055077
 
-## Explicacion
+## Sub cadena
 
-Los ejercicios van a estar organizados por carpetas dependiendo del paradigma y por semanas de practica. Además, cuenta con un readme donde se pondra el enunciado del ejercicio y fotos de los resultados del mismo, de la misma forma, los resultados de los ejercicios estarán en comentarios en los archivos correspondientes del ejercicio. 
+Implemente un predicado que, a partir de una lista de cadenas de parámetro, filtre aquellas que contengan una subcadena que el usuario indique en otro argumento. Ej
+
+- sub_cadenas(“la”, [“la casa, “el perro”, “pintando la cerca”],Filtradas).
+
+True
+
+- Filtradas = [“la casa, “pintando la cerca”]
+ 
 
 
 <p align='center'>
-<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1660613992/Lenguajes%20de%20Programacion/57bb2a1f-golang_lrj8hu.png" width="400"
+<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1665614904/Lenguajes%20de%20Programacion/Semana%2010/Sub_cadena_clmojy.png" width="1200"
 </p>
