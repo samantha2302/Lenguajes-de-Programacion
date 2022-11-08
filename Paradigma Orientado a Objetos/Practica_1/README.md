@@ -14,5 +14,5 @@ Modifique el problema para agregar información de eventos similar a la de conta
 
 
 <p align='center'>
-<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1667150730/Lenguajes%20de%20Programacion/OPP/Ejercicio1_OOP_be1trj.png" width="400"
+<img src="https://res.cloudinary.com/dgm059qwp/image/upload/v1667150730/Lenguajes%20de%20Programacion/OPP/Ejercicio1_OOP_be1trj.png" width="1200"
 </p>
